@@ -6,19 +6,17 @@ I focus on creating real-world products with clean UI, scalable architecture, an
 
 ## 🚀 Featured Projects
 
-### PauFakt – Invoice Management Platform
+### PauFakt – Invoice Management Platform - 🔗 https://paufakt.netlify.app/
 A full-stack SaaS-style application designed for small business owners.  
 - Built with React, Tailwind, and Supabase  
 - Implemented PDF generation, email workflows, and multi-currency support  
 - Designed analytics dashboards for tracking revenue and invoice status  
-🔗 https://paufakt.netlify.app/
 
-### PinPal – Interactive Map Application
+### PinPal – Interactive Map Application - 🔗 http://pinpal.vercel.app/
 A modern mapping tool for organizing and sharing favorite locations.  
 - Developed using Next.js and React  
 - Integrated authentication and route protection with Supabase  
 - Built responsive UI with geolocation and map interaction  
-🔗 http://pinpal.vercel.app/
 
 ### Rent A Car – Desktop Management System
 A Java-based application demonstrating strong backend logic and OOP design.  
